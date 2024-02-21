@@ -1,6 +1,6 @@
 # Hourly Weather Forecast of London
 
-## This application is totally built using Python . It uses Openweather API to get the hourly weather forecast . Here we enter the date and the tiCme and the api provides the wind speed,temparature and pressure of that day and time.
+## This application is totally built using Python . It uses Openweather API to get the hourly weather forecast . Here we enter the date and the time and the api provides the wind speed,temparature and pressure of that day and time.
 
 # Table of Contents
   - hourly_forecast.py
